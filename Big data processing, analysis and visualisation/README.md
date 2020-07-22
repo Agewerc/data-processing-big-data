@@ -3,6 +3,8 @@
 
 ## Description
 
+Project developed under the unit Data processing for Big Data in the master of Data Science at Monash University. 
+
    1) `Analysing Text Data.ipynb`
 
 Analysis of two books on software development methodologies (txt files). We will see the distribution of words, the most common words in both books and the average frequency.
