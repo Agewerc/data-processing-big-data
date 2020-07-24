@@ -6,7 +6,7 @@ Predicting rain or weather is a common problem in machine learning. Different ma
 
 `Weather Forecasting.ipynb:` In this notebook we perform tasks related to data exploration, cleasing and transformation in order to further apply different machine learning algorithms, make meaningful predictions and compare results. To understand model performance/accuracy we use confusion matrices and calculate `Precision`, `recall`, and `F1 score`  of each algorithm.
 
-![Imgur](https://i.imgur.com/PmMZ2U8.png)
+![Imgur](https://i.imgur.com/BJ3rt0V.png)
 
 ## Dataset
 
